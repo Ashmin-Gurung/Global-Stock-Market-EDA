@@ -39,7 +39,7 @@ Additional features were created to improve analysis:
 
 Categorical variables were encoded using **one-hot encoding**.
 
-## 📈 Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 EDA was performed using **Matplotlib** and **Seaborn**, including:
 - Distribution plots for daily returns  
 - Box plots for outlier detection  
