@@ -65,4 +65,4 @@ EDA was performed using **Matplotlib** and **Seaborn**, including:
 1. Clone the repository  
 2. Install required libraries:
    pip install pandas numpy matplotlib seaborn
-3. Open the Jupyter Notebook
+3. Open the Jupyter Notebook adn run the cell.
